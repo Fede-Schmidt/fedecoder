@@ -18,6 +18,9 @@ header {
     color: rgb(250, 249, 249);
 }
 
+.navbar {
+    color: white;
+}
 .menu a {
     text-decoration: none;
     padding-right: 50px;
